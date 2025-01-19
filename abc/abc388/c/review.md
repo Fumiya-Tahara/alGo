@@ -1,4 +1,4 @@
-# ABC386 C問題
+# ABC388 C問題
 ## URL
 https://atcoder.jp/contests/abc388/tasks/abc388_c
 ## 解説
