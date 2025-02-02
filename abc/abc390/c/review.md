@@ -1,6 +1,6 @@
 # ABC390 C問題
 ## URL
-https://atcoder.jp/contests/abc389/tasks/abc390_c
+https://atcoder.jp/contests/abc390/tasks/abc390_c
 ## 解説
 ### 考え方
 黒く塗られているマスのうち、x座標が最小のもの、x座標が最大のもの、y座標が最小のもの、y座標が最大のものの4つのマスに囲まれたマスの中に白く塗られたマスが無ければ良い。
